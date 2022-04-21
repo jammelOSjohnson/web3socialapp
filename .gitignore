@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+/studio/node_modules
+/studio/*.exe
 
 # testing
 /coverage
@@ -35,3 +37,4 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+.env
